@@ -63,7 +63,7 @@ elif IMC >= 35.00 and IMC <= 39.00 :
 elif IMC >= 40.00:
   print("Obesidad Morbida")
 
-Nota: si en el archivo .py les aparce la (n=) no la pude borar ya no me dejo modificarlo, también como se ejecuta en esta plataforma de github y si les aparece diferentes nombres en las variables, esque el código se modifica solo la verdad se me hace complicado programar en esta parte.
+Nota: Utilice algunos conceptos del archivo adjunto para que quede más estructurado el código. Si en el archivo .py ya no me dejo modificarlo, también como se ejecuta en esta plataforma de github y si les aparece diferentes nombres en las variables, esque el código se modifica.
 
 Mi experiencia en lo poco que llevo pues se me complica con las grabación de las clases por que no me avisan ni por correo o mensaje, la verdad se me hace díficil también programar en esta parte devido que no puedo ejecutar el archivo y quiero ver si tiene errores o algo, o si se peude ejecutar por favor digame como para poder hacerlo, la verdad mi experiencia es nula espero me comprendan y me ayudan esta parte se los agradezco, sin nada mas que decir me despido ¡HASTA EL PROXIMO PROGRAMA Y CLASE! Hasta luego
 
